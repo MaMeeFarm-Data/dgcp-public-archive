@@ -129,9 +129,6 @@ This repository does not provide:
 - predictions
 
 ---
-
----
-
 ## License
 
 **DGCP | MMFARM-POL-2025**
@@ -151,8 +148,4 @@ System Architect DGCP™
 *"Study the system first. Visit the place later."*
 ---
 
-**P'Toh**
 
-System Architect DGCP™
-
-*"Study the system first. Visit the place later."*
