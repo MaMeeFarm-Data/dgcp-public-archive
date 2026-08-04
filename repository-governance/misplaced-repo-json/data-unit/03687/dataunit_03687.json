@@ -1,40 +1,9 @@
 {
-  "dgcp_version": "DGCP-DATASET-1.0",
-  "dataset": "MaMeeFarm-Primary-Dataset",
-  "data_unit_id": "03687",
-  "captured_at_local": "2026-08-04 02:58",
-  "timezone": "Asia/Bangkok",
-  "location": "MaMeeFarm (Primary DGCP Site)",
-  "area": "Tambon Ban Kho, Thailand",
-  "zone": "FZ-03",
-  "category": "environment",
-  "sub_category": "temperature_humidity_observation",
-  "data_type": "sensor_observation",
-  "title": "Duck House Temperature and Humidity Observation",
-  "summary": "Temperature and humidity were recorded inside the unoccupied duck house in FZ-03.",
-  "observation": {
-    "observation_type": "Temperature and Humidity Observation",
-    "asset_id": "FZ-03-HTC-0001",
-    "location_context": "Duck House",
-    "occupancy_status": "no_ducks_present",
-    "temperature_in_c": 25.9,
-    "temperature_out_c": 27.4,
-    "relative_humidity_percent": 85,
-    "observation_time": "02:58"
-  },
-  "external_reference": {
-    "type": "ipfs",
-    "value": "https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeifb4fcn4bbnxmnqcydjdvhxxblcgnivd734sbjyx4n3zo3fqoe6qe",
-    "binding": "non-binding"
-  },
-  "media_count": 1,
-  "integrity": {
-    "hash_file": "dataset/data-unit/03687/hash/dataunit_03687.sha256",
-    "ots_file": "dataset/data-unit/03687/ots/dgcp_dataunit_03687.ots"
-  },
-  "responsibility": {
-    "recorded_by": "P'Toh",
-    "framework": "DGCP"
-  },
-  "license": "DGCP | MMFARM-POL-2025"
+  "status": "REDACTED",
+  "classification": "CLASSIFIED",
+  "record_type": "MISPLACED_PRIVATE_DATA",
+  "reason": "Private DGCP Data Unit was mistakenly committed to the public repository.",
+  "disclosure_status": "CONTENT REMOVED",
+  "authoritative_record": "PRIVATE REPOSITORY",
+  "note": "This public repository copy is not an authoritative DGCP Data Unit record."
 }
