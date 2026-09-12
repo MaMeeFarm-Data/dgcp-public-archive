@@ -16,7 +16,7 @@ Location: Earth System
 
 ## Cover Image
 
-![DGCP™ Weekly Market Analyst Update: 2026-09-06 to 2026-09-12](https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibfopr3t3xvypsphb2htp6yc6pgtmzge7gkes6mtbbe5lvm5vv57a)
+![DGCP™ Weekly Market Analyst Update: 2026-09-06 to 2026-09-12](https://ivory-advanced-sparrow-679.mypinata.cloud/ipfs/bafybeibmjfav72om7zwp3hpunabagaqo63vhhd7wvwq47kocwlugiujwzy)
 
 ---
 
